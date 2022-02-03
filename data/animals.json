@@ -135,6 +135,17 @@
         "Timid"
       ],
       "id": "13"
+    },
+    {
+      "name": "Sebby",
+      "species": "Rat",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
