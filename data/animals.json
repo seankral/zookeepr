@@ -146,6 +146,16 @@
         "goofy"
       ],
       "id": "14"
+    },
+    {
+      "name": "Thor",
+      "species": "Grass Carp(Bottom Feeder)",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ],
+      "id": "15"
     }
   ]
 }
